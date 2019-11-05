@@ -33,6 +33,7 @@ sub_characters = [
 masiro_forum_id = 245
 masiro_menu_thread_type = 2621
 
+
 def masiro_thread_type(section_title, file):
     return 2624
 
