@@ -37,7 +37,7 @@ And, in all case, as mentioned below, comply with the copyright.
 
 #### I want to contribute!
 
-See [CONTRIBUTING.md](https://github.com/tongyuantongyu/n7945fn/blob/master/CONTRIBUTING.md).
+See [CONTRIBUTION.md](https://github.com/tongyuantongyu/n7945fn/blob/master/CONTRIBUTION.md).
 
 ## License
 
