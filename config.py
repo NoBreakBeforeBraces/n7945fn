@@ -21,7 +21,7 @@ menu = OrderedDict()
 menu["序章"] = ("0000.tex", )
 menu["第1章 于是我便辞掉了工作"] = [f'{i:0>4}.tex' for i in range(1, 16)]
 menu["第2章 D Powers 启航"] = [f'{i:0>4}.tex' for i in range(16, 38)]
-menu["第3章 异界语言理解"] = [f'{i:0>4}.tex' for i in range(38, 39)]
+menu["第3章 异界语言理解"] = [f'{i:0>4}.tex' for i in range(38, 40)]
 
 sub_characters = [
     ("𠳐", "当"),
