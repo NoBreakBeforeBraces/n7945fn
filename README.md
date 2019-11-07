@@ -19,6 +19,10 @@ This is an interesting novel. I hope people saying Chinese can enjoy it.
 
 This project is non-profit.
 
+#### How is the project released?
+
+See [NovelDeploy](https://github.com/tongyuantongyu/NovelDeploy)
+
 #### Why TeX?
 
 I reused some tools from a former translate project which uses LaTeX to generate PDF releases.
