@@ -3,7 +3,7 @@
 ## Links
 Original (In Japanese): https://ncode.syosetu.com/n7945fn/
 
-EPUB Builds: https://n7945fn.tyty.moe/artifacts/n7945fn/epub/
+EPUB Builds: https://novel.tyty.moe/artifacts/n7945fn/epub/
 
 Releases: 
 
